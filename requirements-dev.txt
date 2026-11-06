@@ -1,0 +1,3 @@
+pytest>=8,<10
+# Imported by the historical distributed-trainer smoke test.
+wandb>=0.19,<1

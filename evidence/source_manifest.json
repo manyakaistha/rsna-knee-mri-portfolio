@@ -1,0 +1,1270 @@
+[
+  {
+    "path": "kaggle/arm17/train_arm17.py",
+    "sha256": "d8e2ecf048df3d3db6dda3f1d3355c6f53d62943b122a718c2b3f1c2a0783c46",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm17/kernel-metadata.json",
+    "sha256": "4033b40ba8005c5c13bede8e2acc07857b1f5fce42806c899ea892b6ffda77e1",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm10/kernel-metadata.json",
+    "sha256": "abd3d39b9e7deafa12a967e2323066341a3a209ef0fc9eec2538b54bc6c75162",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm10/train_arm10.py",
+    "sha256": "1dea33698a9d30b0726a3de7b6ea0ba87ec8157b64341ad63e74f42f651504cf",
+    "origin": "competition workspace",
+    "original_sha256": "d55ac6c786cf9eaadce3d82da1b6788c3e922e25d15b65a25d11ea008cbc7df6",
+    "publication_edit": "Documentation/portability cleanup; see docs/VALIDATION.md"
+  },
+  {
+    "path": "kaggle/arm19/kernel-metadata.json",
+    "sha256": "ac57e51c66206641b025e38aae6f9b3d02d912d3fcc9bbd026bb39e8d64b2843",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm19/train_arm19.py",
+    "sha256": "848566fbf65e00fc124e1ff53ce831ccb66d101e695a6bc4a794443cad861a11",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm20/kernel-metadata.json",
+    "sha256": "ec45cebaec1574a881639d5eded7f64e429bcd05907c7dcc6a91aa09eaba9f0f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm20/train_arm20.py",
+    "sha256": "5ba82272f1d9cebcf2e3e85d9a57d43d19ecb271b99cbc8daa9e29415ecaf2a5",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm18/kernel-metadata.json",
+    "sha256": "24373db76218599b46e056f60e5a4d2e038063ad1f184d38733e4b329320d54c",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm18/train_arm18.py",
+    "sha256": "76ea9e98e3d576625f5e4a679272dedb8bcf674947adecfceefa0a7e8c49a77c",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm11/kernel-metadata.json",
+    "sha256": "01adc1951462f3367974615827e4ba95f73e93d31aaaba1d7b9a4601a9d79562",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm11/train_arm11.py",
+    "sha256": "365095fe925de64230842f3763f61c228d4eeb0c08d80053cd899e2da00a2473",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/test_model.py",
+    "sha256": "624f23d728f94bab6eca5b79ac97867f5602b8db12b46809e9742a6422d6acd0",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/train_armc_roi_radiodino_expert_r336_b4.py",
+    "sha256": "19a40f2b1375bcf423d33949375e24855538544286bacc2b314efcb8a12e39c2",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/test_ddp_smoke.py",
+    "sha256": "f999bbd9b619aae41224dad2e80add3571c89e53dc1706c6fea154bee7d50097",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/infer_submission.py",
+    "sha256": "1ff5d6a795585b7efd9e4288833a7d1f768ab8a58cff6933c08ae05cc4b00e32",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/train_armc_roi_expert_kaggle_fixed_long_run.py",
+    "sha256": "69123af00583a28c14081a5f313782d52ba4cbafb485b3678eedd913cebe9b30",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/train_armc_roi_expert_kaggle_fixed_4.py",
+    "sha256": "7900e4b7ad7ea7434a90f77aed011e9887e78a71f107ab0fd1818ee1fd6969ae",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/check_roi_cache.py",
+    "sha256": "108b78c999c54f051a828e51a61e3896ec4ff08736eb5ce45c5b1f40442df749",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/train_armc_roi_radiodino_kaggle.py",
+    "sha256": "ec1bdea018014cd85179dec87017a1317209b9f012a8931e9cdac29dd595027e",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/train_armc_roi_expert_kaggle_finetune.py",
+    "sha256": "10e99b65239493bc3ae760806a76389e5de08f5d3ef2dbe45d32710e7976e7c9",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/model.py",
+    "sha256": "ad996d8c3175fb850ba13916c44d1abb76849cd4650c660eaf16b339b4c796c6",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/train_armc_roi_kaggle.py",
+    "sha256": "237b9b26650759c55868a667565537088b9baf9194399bd29b8c21184f475a22",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/losses.py",
+    "sha256": "0691917a39cf77cca2d436722b4f220dfb2feb022418084215a5463a62ef506f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/train_armc_roi_radiodino_expert_kaggle_fix_b8_f.py",
+    "sha256": "e7cec0e1858b6e20b49b603a88deca502f51fb814e775b42733c8f4a4670c415",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/train_armc_roi_radiodino_expert_kaggle_fix.py",
+    "sha256": "32b974d649ba5952452b25047d1c0dd78dedbc00bea6cb68a7bbbebbb1688d30",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/armc_roi/train_armc_roi_scratch_kaggle_fast-fix.py",
+    "sha256": "8ea2d80a95024f35a8fb07626787539668e91c705085969269be42b2895aea17",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/prep/kernel-metadata.json",
+    "sha256": "01127f03557bcdf109e30848511058df7c768a746e60298544810089364b02b5",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/prep/build_pixel_cache.py",
+    "sha256": "941776c976eb0a9593193ab58f4387f9aaae50afa730d28e7a3859ce0153fa2f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm16/train_arm16.py",
+    "sha256": "ea53741725f937f53e08150c13277a919a51f7b1c0f66fb0cadd23fa82271eec",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm16/train_arm16_kaggle.py",
+    "sha256": "5736b8a1df36ec886ade887e434ff036b8645ab960dde42697107e8d0e2d98bc",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm16/kernel-metadata.json",
+    "sha256": "187a4a1d3d10b083ae3516a7efd85956c68da92cb975bd55ec51e6bc380ed026",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/inspect/render_datapoint.py",
+    "sha256": "c0f803c7fd08474061d58fb003a0179de6774973ee5f9917ba897486c7efdbe9",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/inspect/kernel-metadata.json",
+    "sha256": "e27192be946a7f833d93561e123cef7232a247ea501b4bf0ce102fbd081b0083",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm10_verify/verify_corpus.py",
+    "sha256": "e9cfe15d5caf520bfd74e19abc76b6fe0754bb20b873cd76d2e99b427d45fda3",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm10_verify/kernel-metadata.json",
+    "sha256": "fd86a212f47aa11f3f86d3967dfd614124c3ae67b013f65561da9271584274fa",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/submit/kernel-metadata.json",
+    "sha256": "7105301e7e4c37dfd85dc52207cda01a9e642edfc6586f4a30b3b3f81284a23e",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/submit/infer_and_submit.py",
+    "sha256": "cfbb20e1663c100193143d71171e0985e629d13ba5f0c9a4dd5cae5375f3e535",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/embed/kernel-metadata.json",
+    "sha256": "96cd162a66f77e61c761d105235cffede4ec7f8cd912b3b64967d84850274712",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/embed/run_embed_experiment.py",
+    "sha256": "3819c5f565641fbd5876e56c719ecac3bdea2ecab12a0dbbf962afc87d8e094f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/orient/kernel-metadata.json",
+    "sha256": "06449b2565896f7122c9ce19adfb930a9f5ac2f004ca4dac6ecd0ffa35e399ef",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/orient/audit_orientation.py",
+    "sha256": "3ae2f079c95626063f444fd68114edc34b5d756fbba12a93ea4340ef88ad1a8b",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm3/train_arm3.py",
+    "sha256": "8bba4fc8982534ecbfcb2ae283035cf5da3a8f671c78baad24bef5b51ead23c2",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm3/kernel-metadata.json",
+    "sha256": "4531d769cc2c0476338da4c2cf400d836061cc5d68f37803a83c1d188285c9b4",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/cache64_s0/build_cache64.py",
+    "sha256": "de61ab400f74c9c9ddfa9e478bf7ea2b259b25fe56979a4f45debb29f24d646b",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/cache64_s0/kernel-metadata.json",
+    "sha256": "90f954da94522eac3ef8e28c345b1e6f5504fc5814fe9a99b4e656fae4b081ac",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm4/kernel-metadata.json",
+    "sha256": "a76e741e56f0e109d6ac04088c4a71eb0116847103ee11293b9e7d16caf7c519",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm4/train_arm4.py",
+    "sha256": "1063f7e2bbfd8e54276be076e7859d98c796d769e17f379a7d47e2c26039831f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/cache64_s1/build_cache64.py",
+    "sha256": "0a97f269d703b7d1e06fd9ca3e3f3d8dbcd4b509a9479a50657f0e75fa698581",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/cache64_s1/kernel-metadata.json",
+    "sha256": "f3410823a1cba928b548db8517278b7224d83c45242105c97d8b1a70e6b35ae3",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm5/kernel-metadata.json",
+    "sha256": "50a0d641969214a66440d8188489a4416a01d6c416559194a939c06e2fb993d9",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm5/train_arm5.py",
+    "sha256": "9f3482d47eaa6bf0cb534ecba84ef8826bbd754c28939bf666842ae7cdbb4521",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm2/train_arm2.py",
+    "sha256": "f6e6ee4615f3673c01cd1de4efe2e25680dbf1de6f48eaed155e065784858c0e",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm2/kernel-metadata.json",
+    "sha256": "14601892a2c2b329532c8b7142bee45bc99bc71cde305e7a65ccd2a87c4bb9cf",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/prep_v2b/kernel-metadata.json",
+    "sha256": "60ec31560a3007a9dff3481d2a9dd8f09ca3264ac02cf3e6da056798d202e976",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/prep_v2b/build_all_slice_cache.py",
+    "sha256": "fd2cd00224f9ae06ee3451c71fd0d5d9813521a4815414eb817694cc30740817",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/submit10/kernel-metadata.json",
+    "sha256": "cd5e319f61fb4e5b01a01f3c1ece215a20f673e1d86d0228c824361daea74d5e",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/submit10/infer_arm10.py",
+    "sha256": "47115305e83eee0af216cf25c9df2a0392ea948839652d408cf2cb03c9108895",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/submit11/kernel-metadata.json",
+    "sha256": "7b4d77e61379bba14771ac3444c2856f9d3b0e1b6fdc2336cb9ee554f4a3a7cc",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/submit11/infer_ensemble.py",
+    "sha256": "b956378895e5a14ddff12d25175a34b311f21fff8a5ddc40f3b5f68dfaf162cc",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/submit6/kernel-metadata.json",
+    "sha256": "9e91f2330a01ff688d3db83851864f7e5425bc669d8e36854288a8327599f173",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/submit6/infer_arm6.py",
+    "sha256": "86324f80870eb3ada36ad4ca2212cb9666aeec84a1a8f7a18b2587b70964962d",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm14b/kernel-metadata.json",
+    "sha256": "35ededad494779d94755e9a736f8f8efb4188a22ef71b05417bff9ac505ba58f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm14b/train_arm14.py",
+    "sha256": "88e402c8828fed61b2e28932c0f1ed482e9508632cde4fdf3b9a16cee32a8114",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/run_local_pilot.py",
+    "sha256": "23af51541e38ae05bc3f1818f242a6f402d97a5a8682220616a035415c3924d3",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/queue_left_joint_line_corrections.py",
+    "sha256": "5c4fd264602ac37030b30177be4006bbdad6d0b8550b27ea2e905626f883d0c1",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/test_roi_geometry.py",
+    "sha256": "de11a536729520f850f3a62b2c06b1cab4b05fc61efc825c066ed3c5ba199b52",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/test_roi_revision.py",
+    "sha256": "a938824d7be6901c21247e87c3519e5d937228508db2e7a60e6cb03e77c2ad2c",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/build_roi_cache.py",
+    "sha256": "05fe6e8ae03fa0d8a3b96562fb441673e2a0a428e0f35260c5b7625061a7ba9f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/audit_synovitis_policy.py",
+    "sha256": "6c77d62ecb6fe99b7e3d4943833ecbcce9d8d34eef7d643ccfc71d102b9b9f1f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/test_roi_builder.py",
+    "sha256": "6028e5b4246b6cb763b2b89565f10696672d19bf2dac4409a37525d552b108f9",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/annotate_roi_pilot.py",
+    "sha256": "4f5446363cad9455c1d806cd8cf7f0c85dae0d7db1e60384818163d9b14c3615",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/render_synovitis_policy_review.py",
+    "sha256": "976e2009a59bc46010d965a2163cc074ca564cd8d8bbae783be6c550085b15c8",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/roi_geometry.py",
+    "sha256": "418c6d7bb2429bf4cb347dd2009a7f87fbfdb9ac1b779cd37d7ecd82c5af136b",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/migrate_roi_revision.py",
+    "sha256": "e7a2acac48f45cfe28871449af7aeb124df80f701498aae1524df71df6f5fa77",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/prepare_roi_revision.py",
+    "sha256": "a9dcecc2573db2077f41dca0e894285c0513f94f1a07ee67caf28bd17365e689",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/merge_roi_cache.py",
+    "sha256": "69489ab58ee7e427db580548de6e140393973f6bed68a06a7ca66cef4faf50ba",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm13/train_arm13.py",
+    "sha256": "ac7502802732459fb8f6e9375f53f67f76ebd9103eff36c6387412d290b9ceea",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm13/kernel-metadata.json",
+    "sha256": "dc341bab1c460b4242267565675801d84578df6a78f014a3615d129dfedec184",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm14/kernel-metadata.json",
+    "sha256": "9d5ce10b1f87d4b1bc400a4480603d95e2abb11aca6dc2cb02c81b159486e3b1",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm14/train_arm14.py",
+    "sha256": "88e402c8828fed61b2e28932c0f1ed482e9508632cde4fdf3b9a16cee32a8114",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm14c/kernel-metadata.json",
+    "sha256": "78e64831d2203e8754b253b22ddce665f036913afa739574bfc483d861db3240",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm14c/train_arm14.py",
+    "sha256": "88e402c8828fed61b2e28932c0f1ed482e9508632cde4fdf3b9a16cee32a8114",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/analyze_blend.py",
+    "sha256": "3c892419165e1c61cbab46af4e444b02a6c0d0bf0a34c3b795b973454701f7e9",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/audit_roi_geometry.py",
+    "sha256": "29219f349a60e0038e617dac9251b003dd1b97b8d29a0888f1b2bafc29c6266a",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/experiment1.py",
+    "sha256": "4b639a55da84b5235ff30ea8bcd92f19e96f92f78a2e7119b76c7c4be0e8d76e",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/experiment1_submit.py",
+    "sha256": "d67c48490c0ba77af385ce4af9d72dc884331f5bb5e17978657450dce0f392d6",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/test_experiment1.py",
+    "sha256": "af2d4ea6239574677e6f358741a7357311e247174021f73fe0dd8b720b5f9c11",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/audit_inputs.py",
+    "sha256": "a70f3411578201690bae2320e67364d2065fc3a5e739ecce38f425f761c773a3",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/summarize_repeat.py",
+    "sha256": "a9c6a31f4294e41d4f12df7df1c039a91284e6627243dff4cdd8aec327204dec",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/package_armc_repeat.py",
+    "sha256": "2a6a57fe18ffdf42afebbddac9cf9a20e4ffbcdfb84011d675751b8dce0ed8f3",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/summarize_armc.py",
+    "sha256": "c986beac6d044175eea3451c22b8696b7e8109a1761e2a092e637a12f9ff732e",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/analyze_experiment1.py",
+    "sha256": "652f29d134d3ab9fa9fa032c315f812cba739ed17f016a5c20c37381ebef9ff3",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/package_kaggle_diagnostics.py",
+    "sha256": "9e311cd22681ac17c6e01c7028cdc1e070580017ef42f37bc37d77e135ddaac7",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/reconstruct_armc_k24.py",
+    "sha256": "4699e94c2cab908f12bd65c70b09714ed9bb325e66bb1dcd5d96c53e28bad3fd",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/diagnose_armc.py",
+    "sha256": "19dc91a0a256fd040d92ee820f8e6b2c762052c07b0c5532f498951b5198c444",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/analyze_subgroups.py",
+    "sha256": "9c44c942c6a02fb782ba4f2c98d13ab25e16ed152f5c21633d05800ff107d84b",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/k24_permutation_controls.py",
+    "sha256": "38f418102a80e0c53faa34b9ad7f9726d13e8ed09f2f6a73b6e769ac161eecfa",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/profile/kernel-metadata.json",
+    "sha256": "a92d9d9894669b518bee60b70cf8a3ad651a76affa567a28ae9f6b1d9734c324",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/profile/profile_attention.py",
+    "sha256": "2e8ed3a1f17031babfb725515c6443e819367d99a967bfa53043d813a05d053a",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm15/kernel-metadata.json",
+    "sha256": "adedae1fac92f26251e7f68ec533bc4667ece6c218ff84fc3cdcf7e748d9714e",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm15/train_arm15.py",
+    "sha256": "82392f687af09157c02ffcc5f22837ee63dbed5a45cdc8528027d134c22deefa",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm12/train_arm12.py",
+    "sha256": "0212dc71f0c3d5fec79c72cd749d39faf58c2ddc9d2f6e94c941108d03259270",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm12/kernel-metadata.json",
+    "sha256": "badb5cfb47a30706207ae959b80ba6eb24eacda60880be79f93dc973473bb6eb",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/prep_v2/kernel-metadata.json",
+    "sha256": "bef21a59970e1d8a392fa1b586579505bb9bf0c829205d3cd7751b997ba2a975",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/prep_v2/build_all_slice_cache.py",
+    "sha256": "feea012bcf5628049da9dcc8ad52594973f208e1af0a941395fe9bb210f8d5f1",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/knee_dino/train_knee_dino.py",
+    "sha256": "2f93fe7879615bbd61c5ba95680baf1215404ae0eb0192ee04b16199937f8355",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/knee_dino/kernel-metadata.json",
+    "sha256": "acf7c4bde2aa0790c1a40b5a38a82193480574d7f74992d11d11a18bbdeb41b5",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/metrics.py",
+    "sha256": "0c1b6c818ee0a8311e58e30075fc13d36201cdf97f6d5e76954cbd30630a5a58",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/monitor_runs.py",
+    "sha256": "85274c0aa3a8e0253e9c28e246aebb21d9290b68ef7ae2bf4f6e958bcdf0c016",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/scaling_probe.py",
+    "sha256": "a4d6ed3d6ecf8bee97ae8b4a53906f7197ee9e29c2545064edb4cf6cbd4f3bff",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/analyze_ensemble.py",
+    "sha256": "2f562972c96fe7a81c2bacaae32a491db28194697fff49b666261da656043daf",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/benchmark.py",
+    "sha256": "9101b50f6032de10dc09860743c486690d99b972898cbdf217635e745d7dadf0",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/gpu_preflight.py",
+    "sha256": "a51b491546f4f0c632883ef7995df0a2a8aac56ee8a6c4b9aea0cf946c81a1dd",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/models.py",
+    "sha256": "ac8eb335a2776014827bd93b4a694efece0e5de2b782bc9fc7f1e0e0e753b05d",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/extract_features.py",
+    "sha256": "8e29230f421f9c4b6c115d86850879f74d0f0ce691ad8b51f907611d2728dfb9",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/research_sources.py",
+    "sha256": "41f4a3f3bbaae08f402f5931521756c379fda904e36124f3a1f81cf457e65611",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/build_window_geometry.py",
+    "sha256": "62b245c0c1e621f4d4704cf9970125d609c48cf1d6b177cfb8bd4f3c31ed08ca",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/screen_representations.py",
+    "sha256": "e73d979af6fb3df6acf540ac7d95abd481feefe1c461e82b09f9535b9086896c",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/enrich_history.py",
+    "sha256": "30ca368d21eb031a5ec686c0d5199acec1bb7ae56757251173d21b9c9c76ecf6",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/ddp_smoke.py",
+    "sha256": "3d0cade91ebfa3ae5bc37c560dc9a53bcbe0e3a7317af5fadf4036e3182c2bbc",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/train.py",
+    "sha256": "486484067ee01e704393fdd3410c2aebd090819041edd91bdc9defc202d2a266",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/infer.py",
+    "sha256": "d35503f0f04678a8ebb6b46e99b885fde0d919707299938a077fbb105498e600",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/test_window_headers.py",
+    "sha256": "0f559e5a384f340c74add7e85c9da69c4787177eba2938ece5a141f214d109ed",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/refresh_history.py",
+    "sha256": "312fa46f9180bd5110bc35d44aa6149b0fa01ae7fca6b429d2dffd30b91e31a4",
+    "origin": "competition workspace",
+    "original_sha256": "4a987ee24a553dfd462f1ae8d754ae498b3192650b747c6405a74982bd42184b",
+    "publication_edit": "Documentation/portability cleanup; see docs/VALIDATION.md"
+  },
+  {
+    "path": "kaggle/portfolio/package_kaggle.py",
+    "sha256": "da6a476cad5471a901cdd0bd1aa7494e914858398a0751c8194de8614f20b4a3",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/data.py",
+    "sha256": "d9bc65cb04fd98301096c3b03fccdefbcb2a4446a4f235b3e883ec6f4109329f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/make_single_files.py",
+    "sha256": "8361f052fb72e49d2eca81f9f938e9b5b5ace126019cd3f6b6a63ee86b5055e4",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/stage_submission.py",
+    "sha256": "59adf2f8313fc55eb8624920598724cdb4b5849b95e81a562b020b3e6725ec70",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/smoke.py",
+    "sha256": "7554f388d3784e01f6803ff297701ad1093cddeafb133ae3218ddf59b9b4396c",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm7/train_arm7.py",
+    "sha256": "64bf5041bc2d4840992b84219a28997a1c1379d0585855c9f15cfa8fc0c1a2b9",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm7/kernel-metadata.json",
+    "sha256": "942bd0611c92f9b2743716dba70d234f65b4c0ea348472d08760553434f63254",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm9/kernel-metadata.json",
+    "sha256": "5ba7bd7b339ebcc975233411cb6c13542f01ac68dc946bbeccccb712a13be005",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm9/train_arm9.py",
+    "sha256": "93274bc70a129c234ed75bcb9bc6dd59d5b7dc09f33ded377f84592205e5118d",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm8/train_arm8.py",
+    "sha256": "22e651b64a0db014b79ed249c23646e3c59eb48970d3c7c3903f46fc6bd90825",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm8/kernel-metadata.json",
+    "sha256": "97a47ccb6de7c0f0be196044b7aa19105029092f2ad60bf785535b594876f3c2",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm1/kernel-metadata.json",
+    "sha256": "4baf0bbcf4641d20624a7c879fe74b4fcaac6c1e1a65a35b9f8a1357eeac6da4",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm1/train_arm1.py",
+    "sha256": "d5280cad5f22f7abcd74aa8544e9223711b9cc9a634e35cc867e5bf42c0a715e",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm6/train_arm6.py",
+    "sha256": "f632f804a908f0667b3efe78fe4edd70b825724e3e65c5290534aea3be73e3fc",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/arm6/kernel-metadata.json",
+    "sha256": "9b03aa919b826f96f673d678fab3034c85cd5d135be0d9c8c8c713a182497120",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/cache64alt/build_cache64alt.py",
+    "sha256": "1a0c9e104a13a404877088ee60dfb684601ed79538a77ca6f6332b92c5245dd0",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/cache64alt/kernel-metadata.json",
+    "sha256": "45376d05ddd537f538b1a20d2d00f71435ff84841940771b51f743ea5ef5008a",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/cache64/build_cache64.py",
+    "sha256": "6420f9aeba66a9a589ffcc0a2439179a0a674918d8a328bce86fa4d604171ff3",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/single/check_single_files.py",
+    "sha256": "cd6ed7884eade07bc1d35f342ac2965975e62fffe4fdf0038c0302213841582d",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/configs/05_efficientnet_global.json",
+    "sha256": "feb7c82fb80ab92f83b9c168c460bc84ad3df27ddaa7d640de22b296cba5a715",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/configs/06_metric_convnext.json",
+    "sha256": "73e7f6098f43051a721b207a539f1f22be910143b61d787b445667abb574b57a",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/configs/03_plane_contrast.json",
+    "sha256": "3066d9729369b3308786412f96c96f129b8508bd4a57a4cf43de10694ac1e091",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/configs/04_roi_specialist.json",
+    "sha256": "d1e62320864ff344212379031ff14a98f6fc725d640f5c07561ff78c0ad783a0",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/configs/02_global_coatnet.json",
+    "sha256": "1347f0de963239a8f8faf273a2e7e24cb206924a18d849ca2a1d459a679c6078",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/portfolio/configs/01_global_convnext.json",
+    "sha256": "b2426889d74aa22a3808690b897f560ce9ab0d61c7d5df420cce811c41e51bfd",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/model_research/provenance/armc_submitted_inference.py",
+    "sha256": "250ad723b445119b118bc48ab4116ad0ef79277bb38ceff93ecd400e25308ebe",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/auth.py",
+    "sha256": "c7a94052d94860e29bff314e56ff17461ec339fd88d8312690225d5c81c6505b",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/services.py",
+    "sha256": "35d4ec7a6fb6ed02266832d6372bedd2790edd697c6a3c25154903c39fd33076",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/config.py",
+    "sha256": "77f7cded7e6c2ab6a057cb82e6ee9a570931e57d593e2867d4c8e3356a780cff",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/database.py",
+    "sha256": "f85db7772a2c856854a83e9f4a43a9a150d1c31c77eae97a696978b0d96af0f1",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/__init__.py",
+    "sha256": "14d1735b2a94aa98c009b96010091af87b491b4ca332625a01aa72c66f026624",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/schemas.py",
+    "sha256": "766882753bb43c3afa63227438aeac7e5ef71e5234948e3cc2b60e4016c6cb59",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/cli.py",
+    "sha256": "ac8cb02215ccb11fa88286ecdf6a58bae3fd44a0e578a2001c4e039247783ccb",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/app.py",
+    "sha256": "0d1617a608189ebf4173281ff8c596f2382e141d1195847ee78f7ee3371fa070",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/single_user.py",
+    "sha256": "8ed30c3b7e4dc0d8dabf53ba2e83522ce81dc0abd3b1144b8dd1fefa0eccdaad",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/tests/test_database.py",
+    "sha256": "84e306c2e1dc38f3ab9e88800730cfa03128332fa5400920eff729e055c0c71c",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/tests/test_exports.py",
+    "sha256": "28a467b2e92a36bc9879359c16a14fab79b67759bc773ac16600327a5ec2f143",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/tests/test_laterality_guidance.py",
+    "sha256": "200b7445071dba4587e4645f4cb5c546a0e583c93e4eac4321c227d73648a141",
+    "origin": "competition workspace",
+    "original_sha256": "66d6283b09290260d09642efae97c3d7e740e005f8fdfd6a5c700a0d568caace",
+    "publication_edit": "Documentation/portability cleanup; see docs/VALIDATION.md"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/tests/test_auth.py",
+    "sha256": "1086b7f9fe828d26a1bed4b2a249068d43f4f291c9b7848add9ba0efec57a5e8",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/tests/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/tests/test_resume.py",
+    "sha256": "f8a8996224261ae837aff69ffef154338adc84c03779e62c6433c0d2310a7e71",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/tests/test_coordinates.py",
+    "sha256": "36d7ad9219120eda6fa125e6b2c7249db69141437b5345c8401c707651aa2a47",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/tests/_fixtures.py",
+    "sha256": "cadd33af0bd7063fd1ffe6f1a53d138d84293ae435c79291f28a2ef6b6b09fd5",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/tests/test_api.py",
+    "sha256": "36663e28b520386e45b5a08a3bb404ea885d67b538ff2d79cb4654c378869218",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/tests/test_static_ui.py",
+    "sha256": "9287573e26b16af15f1961b60d5f847e0fca9ce014f6b6ac82bf3a646caf9096",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/tests/test_single_user.py",
+    "sha256": "5e6280c3b04b37134dceda7abe6bce51288d2bc15b88fc9e82a7863ec6db8b9e",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/static/index.html",
+    "sha256": "4e72ae84a8c988c992d83488034d7d248f5508493af8b611342d31074e5646f0",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/static/app.css",
+    "sha256": "1068a69f18776bb7101886e4f499c712f7b1f0af5fa469734188d52815ed828f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/static/guidance.json",
+    "sha256": "126c045013d9168b847a83714f4927f82d67b47eba997a0860e38a1da0ade872",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/roi_cache/web_annotator/static/app.js",
+    "sha256": "7f83ad8f0a9474887375629884ae03182066d46ed6d4204a5feb2c40fe7da6a5",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "scripts/prepare_dataset.py",
+    "sha256": "8826b84d19eae55ab28a955c10cfe0a6088665c3d318eed10438b69dc8fdec14",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "scripts/download_data.py",
+    "sha256": "e955727007f7d996502cb33d30938e2ff1983ea41e156a7fcb395fda97478cb7",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "run_web_annotator.py",
+    "sha256": "a74a082495477e56508aa62f52200dbe20eff7514ba36c787275c98a56a22203",
+    "origin": "competition workspace",
+    "original_sha256": "76db463e21765aaaa403861b2918699ea0cf493fbb8d2bb8551cccda6844936d",
+    "publication_edit": "Documentation/portability cleanup; see docs/VALIDATION.md"
+  },
+  {
+    "path": "references/run_dataset_eda.py",
+    "sha256": "1cce2b5c8a328ee66ee4b30b827241d372b3370dc550d113429451434d573012",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "download_competition.py",
+    "sha256": "0245af436b431f58fd5a2e21ac0344628babbd06a9ee755d658fd370e00197a2",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "extract_archive.py",
+    "sha256": "62eb5e450916ebf61cc852914dfec59c81d881d7a9497f30e1b939448473f8ff",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-submit14.py",
+    "sha256": "5cd162053e742c42c4f4cf25c8eb99cdb1e0b6b0723251f62259e7171e3b0de4",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-submit13.py",
+    "sha256": "accba7419cba65d9151c794182d057d57036d94e65f69e0c6949ff2a20b045db",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-sub-wstrong.py",
+    "sha256": "7c3ccaea849428810a5e80d58ebff2d62aafc43cee790ec81e603b006bb5f775",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-infer-submit.py",
+    "sha256": "cfbb20e1663c100193143d71171e0985e629d13ba5f0c9a4dd5cae5375f3e535",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-submit12.py",
+    "sha256": "ffd7831c6d844883505ea7218b4feb5b50d1396840810ca83b6c3ed585862bd7",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-sub-rwlite.py",
+    "sha256": "cbf223dc763b6ebf40cfb114f17b7d2d054b8a8bb2a18630ad1946284fcaa8a2",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-sub-armmr.py",
+    "sha256": "83b67815d6857d8885f779d0a128190af1d4d6ff80d37c87a60ecef742e2b50b",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-sub-ttarev.py",
+    "sha256": "4430f3c831b31b810c43fcf7c0074de5ea5175f1d75791412339124937b70b8b",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-submit10.py",
+    "sha256": "47115305e83eee0af216cf25c9df2a0392ea948839652d408cf2cb03c9108895",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-infer-arm6.py",
+    "sha256": "86324f80870eb3ada36ad4ca2212cb9666aeec84a1a8f7a18b2587b70964962d",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-submit11.py",
+    "sha256": "ce586c410815ee49a12e6722a217ad71c6734f190a6b5e1a446684d94e48aff1",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-vol3d-infer.py",
+    "sha256": "8b66cbcf334843ecb78d1322396012eba497e973a8b274949a14293575383f37",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-sub-pseudo5.py",
+    "sha256": "27e64a34fdf508e869f0345b9047aafd73c37015a648cdd1434911be032cbecf",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-sub-evf5.py",
+    "sha256": "eb4b79e722881458e506239278b62a9d7ce6b42729cec93246a40c203ffdc9ea",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-sub-evffold.py",
+    "sha256": "dd92fbb4fff0a226ffed54840f7429942515a47b3649fbb82e8dd9aa50b36dac",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "kaggle/submissions/rsna-knee-sub-armevf.py",
+    "sha256": "9d7cd331e1186127690acb5c35f0ea7b801219179117e44f8ed7fab7f82734cd",
+    "origin": "Latest Kaggle source snapshot; scored versions are linked in evidence/submissions.csv"
+  },
+  {
+    "path": "evidence/fresh_paired_bootstrap.json",
+    "sha256": "a520539fb30689a679153a80cbfc0427034125a4f8792e3ada6091398451dbce",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/fresh_cache_audit.json",
+    "sha256": "d9aea508243094dc11c47534dda49efdefbd493c6e91db4b2b439a711cb0c6bb",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/recomputed_scores.json",
+    "sha256": "8ec4e39b7616196dd51cf7714b227e5dbcaba5746b6cd38370b6ee0618603e56",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/recomputed_scores.csv",
+    "sha256": "6c53a1a6b0ebc78a479d8441383689d38b114ff637d040ccb29e5ac5077f5cd0",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm1/arm1_summary.json",
+    "sha256": "35ed4b0565f3ab6412cce09888a0c12020d11f87de1d3ef4016c22bb641c3d4a",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm2/arm2_ab_summary.json",
+    "sha256": "04654815c0a8646aeb8b939f21a3438c2fd2ef089f52d6a37aec5952e3936900",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm3/arm3_history.json",
+    "sha256": "97778d6232b7e4f203c7d7b6efee3e9b97d9b9a042799e1f07586cffa97c07f5",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm3/arm3_best_per_finding.json",
+    "sha256": "bea32fd7774f6122f15962d1c9978b44b09461cbae11f3553ee1444dd6cfd558",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm4/arm4_history.json",
+    "sha256": "03d6e22bfd95fd5ff42e8a64649b5bde57dd0e1a50529553d7e4fd1b61bfc7fe",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm4/arm4_best_per_finding.json",
+    "sha256": "8b9327c74952a948cb945fcdcf10d4dc5de1ee10d0d89137b8a05de86e97957d",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm6/arm6_best_per_finding.json",
+    "sha256": "2b86bf056c61b8bbe34e353f113b3597f0b5544fb92a6ac78994541c08aea82f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm6/arm6_history.json",
+    "sha256": "2787e56348bb9286a96eceec3a718a0fe25f32e4e31b642ba227d52c7dacd5da",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm7/arm7_ab_summary.json",
+    "sha256": "93fb7c0d984883500f2e687c5acd0cec908e48ea04275df8dd4d4393b6f60a35",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm8/arm8_best_per_finding.json",
+    "sha256": "8df9696825a37d2309cd7a410c23308b8a149d0f98757ae2a783d050cc2bca6c",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm8/arm8_history.json",
+    "sha256": "8fa7afbf228c7862aaab27bddfbace81934b931b7af4acebc83f437cb5f09449",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm10/arm10_best_per_finding.json",
+    "sha256": "0f07598dc4dcdd83a3ff49eb80f8d856fd5c454b2ed5985ea95785d7ccf7617f",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm10/arm10_final.json",
+    "sha256": "1c65983199d26060da2783fb9fe62877a2eda2e75eb9dc501ab7f2231f0a5409",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm10/arm10_history.json",
+    "sha256": "109a9fad165d01c2a5d49fcbc20a0d7d5bc660f1412276ad1cf9c41c011c3980",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm11/arm11_history.json",
+    "sha256": "d8a6b61234585c47660f27951f0ec19141fc3552442bf5e5ebb25a233dc6ce4c",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm11/arm11_final.json",
+    "sha256": "860b8d6d3e38237837f0558de062445fc3f276ab5f29a8df980689a3f60f2fc1",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm12/arm12_final.json",
+    "sha256": "ec0ceedb39e956850f0ec4e374e8fd61cabc606da05bceb64faf0d2acd582de0",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm12/arm12_history.json",
+    "sha256": "1f2cc3caac53f8bd48b4a34de4677b481927100c0ca619ee5337a9b52ecd05a4",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm13/arm13_history.json",
+    "sha256": "173fad9aace1f96850173c5978aab8589d11d0f5230ad11cce438e1085e90263",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm13/arm13_best_per_finding.json",
+    "sha256": "16ebd8b33fedbf201458cd55718354324a4afe4f7a4c0385d22955da697e85c5",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm14/arm14_decision.json",
+    "sha256": "f88e47b946caa33236d0681a389c5ab4163dff63f877c969b773fd713fa86395",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm14/arm14_f0_attn_result.json",
+    "sha256": "08bbffc398e0702893650a04d1027af4e2b8b87743123570a1ebe64e7d6cc1dd",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm14/arm14_f0_seq_result.json",
+    "sha256": "4ada8b6bf211f1ee84e1e0ea84974c333dacf92d7f96da77a7e5bc85ede9612e",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm15/arm15_final.json",
+    "sha256": "4df0b8ab39eec51d8fb08406640e31ea6d395d7d69e686d6dcc7c618447e2e15",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm15/arm15_history.json",
+    "sha256": "e7ec24f5646569b285709ec0f1403697033b8d11202fe16c80ec493e00001a5c",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm15/arm15_best_per_finding.json",
+    "sha256": "fe623b933da762253200e944a7f63b247ccc95fe06f6456d37b7519e03ecbc01",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm16/arm16_per_finding.json",
+    "sha256": "6fe57e807892022143e19144a7138151c285f34ea56d4f46df1cc6d1ee5e3ed7",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm16/arm16_f0_base_result.json",
+    "sha256": "6ce0c63ea4f66d32de683ecbc1a99161cb962d1cede7e63cd227c3293e290d51",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm16/arm16_decision.json",
+    "sha256": "aec96b496b0a0ca8a9f423fce311a1aa998011229c917adfaf5b614c5e0b6355",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm16/arm16_f0_canon_result.json",
+    "sha256": "e90c83dd3e498888154dfd5673f177a2d396b39183997fa9b0627daa16161fdb",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm18/arm18_f0_mask_result.json",
+    "sha256": "a1ecb12d4105fc81e382151edb517cb5c9011e3c44389ae227a3ba8453ff0cd7",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm18/arm18_f0_base_result.json",
+    "sha256": "f3359993be80da65e11df9ef7b2d073fbfc50b0c7a730ca79948e1342673714c",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm18/arm18_decision.json",
+    "sha256": "4c652e56ebf1c0db4719b5612638a4a7c87fa55cf8f4fd68f1d15a6aeff92b18",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm18/arm18_per_finding.json",
+    "sha256": "5be9b06a75b1bcb4a9cb27e374944a3bdb1b0a81e6e624f1453085fea4185a47",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm19/arm19_f0_noaug_result.json",
+    "sha256": "eff718c4f6af993cac0cdc68ef16271bad8cffd994ab8fd8b03de4ae566db8ca",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm19/arm19_decision.json",
+    "sha256": "15f4dbefe8d558c06fc61e9ebfabb9275db8dd48c779f269e4a34a07f1137a26",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm19/arm19_per_finding.json",
+    "sha256": "ed81e23718606073b0b553dcd87190f99697a6cbfe4b408a73825e1c14f5cc03",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm19/arm19_f0_aug_result.json",
+    "sha256": "5e5a13111d0e542b05a5a5a8e12b923fd6894ffb8864e4a384f7f5d8acfc8675",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm20/arm20_f0_noaug_result.json",
+    "sha256": "7b74ccb726d7e7eb429d48fbb12deab0f67608db0d4b7b7830dfd242d401efac",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm20/arm20_per_finding.json",
+    "sha256": "1127bb936b97f7347556b62a4fe4b659ed46354a9e2c068806a011f9fe273603",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm20/arm20_decision.json",
+    "sha256": "f1263aa06fab5051a26ccaa550f42a54285bd30cedd58d846adb04a2e1d7abfc",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm20/arm20_f0_aug_result.json",
+    "sha256": "e83832fabf533bedce493cf40f49b39df68ca76af35b6e1228fd82d11f40d42e",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/arm14c/arm14_summary.json",
+    "sha256": "6e015f1c479ca850068bc531d359eb1e4ad5022ec020f5ba87442956f9a62bd0",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/knee_dino/v7_curriculum/knee_dino_summary.json",
+    "sha256": "d9a31e167c7f3d538159bc83fa92049333355cd7b7649babbcc028e2a85bbb76",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/knee_dino/v5_easy_evalbn_collapsed/knee_dino_summary.json",
+    "sha256": "b5499151870c977771c8017b645918fee616ad147e0850ef1fab338aa60b14f0",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/knee_dino/v4_warmup_collapsed/knee_dino_summary.json",
+    "sha256": "e73f8c194d87c5c7cb312efe8dd222e6ebb976b489887fb96b9149edbc1114b8",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/knee_dino/v3_collapsed/knee_dino_summary.json",
+    "sha256": "58ef41e1329547f5ccd0dff1fd64c219c7a98d79c1ed8cf75d9fc0b251416236",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/knee_dino/v6_easy_trainbn_stable/knee_dino_summary.json",
+    "sha256": "ac658fa69fe55b2e7411c1b81a69ccb3264ce650331c437740076831644cf367",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/armc/armc_k24_reconstruction.json",
+    "sha256": "5d4a906f49062e04a88034e9456e55b774b97e8dc9d09857af9cbcf70e6f2d3b",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/armc/k24_permutation_controls.json",
+    "sha256": "2cc63bef463cfe1dda87ccccc74f8e8cc5ae1ef20ad5f1bbeb611f0673974afe",
+    "origin": "competition workspace"
+  },
+  {
+    "path": "evidence/experiments/armc/paired_summary.json",
+    "sha256": "598b44b45989f0a19c2aaffaf8d38ae06ead24e0cd1abb116181f6a9a97bd7d7",
+    "origin": "competition workspace"
+  }
+]

@@ -1,0 +1,49 @@
+# Python and local tooling
+.venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.DS_Store
+.idea/
+.vscode/
+# Credentials and environment
+.env
+.env.*
+!.env.example
+kaggle.json
+*.pem
+*.key
+# Competition data, annotation state and generated results
+/data/
+/data-root/
+/roi_work/
+/runs/
+**/output/
+**/f0_artifacts/
+/references/eda_outputs/
+*.dcm
+*.sqlite*
+*.db
+*.db-*
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.part
+*.log
+*.zip
+*.tar
+*.tar.gz
+# Regenerable standalone portfolio notebooks
+/kaggle/portfolio/single/0*.py
+/kaggle/portfolio/single/kaggle_registry.json
+
+# Generated uploads embed private split manifests.
+/kaggle/portfolio/staged/
+/kaggle/portfolio/kaggle_kernels/

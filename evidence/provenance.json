@@ -1,0 +1,14 @@
+{
+  "prepared_on": "2026-11-06",
+  "submissions_source": "Authenticated Kaggle submissions API, continuation-token pagination until exhaustion",
+  "submission_count": 30,
+  "submission_scope": "Accessible Abhi team history",
+  "scores": "API display precision; best observed submission scores, not a claim of selected-final status",
+  "rank": 3509,
+  "total_teams": 6299,
+  "rank_source": "Participant-supplied Kaggle competition screenshot dated 2026-11-06",
+  "source_revision": "1a0b26b with existing local additions",
+  "recovered_inference": "Latest Kaggle source pulled 2026-11-06 or archived 2026-10-14; not certified byte-identical to scored versions",
+  "prior_analysis": "Aggregate score and ROI audit results from 2026-10-28; not rerun training",
+  "excluded": "Patient images/reports/IDs, annotation databases and tokens, local paths, prompts, coordination notes, environments, caches, raw logs, duplicate generated bundles"
+}

@@ -1,0 +1,42 @@
+{
+  "study_count": 4407,
+  "ids_unique": true,
+  "global_roi_id_order_equal": true,
+  "provenance_rows_checked": 88140,
+  "all_mask_cells_match": true,
+  "valid_rows_distinct_sops_increasing_positions_padding_le_20_percent": true,
+  "invalid_rows_have_failure_reason": true,
+  "targets": {
+    "mcl": {
+      "valid_windows": 17141,
+      "total_windows": 17628,
+      "studies_with_at_least_two": 4402,
+      "studies_with_no_valid_windows": 5
+    },
+    "lateral_meniscus": {
+      "valid_windows": 15216,
+      "total_windows": 17628,
+      "studies_with_at_least_two": 4401,
+      "studies_with_no_valid_windows": 6
+    },
+    "lateral_oa": {
+      "valid_windows": 15216,
+      "total_windows": 17628,
+      "studies_with_at_least_two": 4401,
+      "studies_with_no_valid_windows": 6
+    },
+    "pf_oa": {
+      "valid_windows": 17498,
+      "total_windows": 17628,
+      "studies_with_at_least_two": 4402,
+      "studies_with_no_valid_windows": 0
+    },
+    "synovitis": {
+      "valid_windows": 15480,
+      "total_windows": 17628,
+      "studies_with_at_least_two": 4288,
+      "studies_with_no_valid_windows": 119
+    }
+  },
+  "limit": "Metadata/provenance audit; no full tensor pixel rescan or new raw-DICOM inference."
+}

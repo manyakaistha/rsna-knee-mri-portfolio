@@ -1,0 +1,9 @@
+# Optional data access and compressed-DICOM codecs.
+kaggle>=1.7.4.5
+kagglehub>=1.0.2
+python-gdcm>=3
+pylibjpeg>=2
+pylibjpeg-libjpeg>=2
+pylibjpeg-openjpeg>=2
+# Optional historical experiment tracking.
+wandb>=0.19

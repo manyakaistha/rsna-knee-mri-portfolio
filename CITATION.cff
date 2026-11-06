@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the project and acknowledge the original competition team and upstream assets."
+title: "RSNA Knee MRI: Weak Supervision, Anatomical Modeling and Competition Engineering"
+authors:
+  - family-names: "Kaistha"
+    given-names: "Manya"
+  - name: "Abhi competition team"
+repository-code: "https://github.com/manyakaistha/rsna-knee-mri-portfolio"
+url: "https://github.com/manyakaistha/rsna-knee-mri-portfolio"
+version: "1.0.0"
+date-released: "2026-11-06"

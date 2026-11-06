@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-06",
+  "source_release": "https://github.com/XERO47/rsna-knee-mri/releases/tag/model-weights",
+  "verification": "Each published checkpoint was downloaded and verified against the original release SHA-256 and exact byte count.",
+  "assets": [
+    {
+      "name": "arm13_best.pt",
+      "bytes": 292869751,
+      "sha256": "27e6f5c9481a03fbdcdb8714953252414b512c7bfb2809d3086b82e9225b4024",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm13_best.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm13_best.pt"
+    },
+    {
+      "name": "arm14_f0_attn_swa.pt",
+      "bytes": 198776491,
+      "sha256": "a2a18c9682f7133d490a4f2cfa5f23ab2f8e3ab24692229ca7579b4d7ec22d03",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm14_f0_attn_swa.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm14_f0_attn_swa.pt"
+    },
+    {
+      "name": "arm14_f0_seq_swa.pt",
+      "bytes": 206855764,
+      "sha256": "ce8adff4ba46119a0384dfebc3b07863e868d705914c34cdbddede81dced673d",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm14_f0_seq_swa.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm14_f0_seq_swa.pt"
+    },
+    {
+      "name": "arm15_best.pt",
+      "bytes": 198805679,
+      "sha256": "5e46c85a5f41201f1819eaf2589652bb593a18ca02bf5db87508c3cb3fd4f11d",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm15_best.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm15_best.pt"
+    },
+    {
+      "name": "arm15_last.pt",
+      "bytes": 596428377,
+      "sha256": "25d11e45798b9297a912d5652985d16221c8466a5e55c9fa73beb6226941061e",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm15_last.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm15_last.pt"
+    },
+    {
+      "name": "arm15_swa.pt",
+      "bytes": 198773643,
+      "sha256": "16df61717a40662334c3478f7fd44cfc7d2a34665439b192f3834fafd3fa2727",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm15_swa.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm15_swa.pt"
+    },
+    {
+      "name": "arm15_topk_ep6.pt",
+      "bytes": 198806271,
+      "sha256": "c888e95a3b5a1123bd52086998e4537dc30913f1bcd731847095daaa4ac5dd92",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm15_topk_ep6.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm15_topk_ep6.pt"
+    },
+    {
+      "name": "arm15_topk_ep7.pt",
+      "bytes": 198806271,
+      "sha256": "10687ac37adad120e80c66ce39f14d4d46d315519e11adb01a94b3aa3e812746",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm15_topk_ep7.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm15_topk_ep7.pt"
+    },
+    {
+      "name": "arm15_topk_ep9.pt",
+      "bytes": 198806271,
+      "sha256": "ea75bbcc67685572c0c6cca52b5aace19d68be901e9ac96d30bb436a6c737efd",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm15_topk_ep9.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm15_topk_ep9.pt"
+    },
+    {
+      "name": "arm16_f0_base_swa.pt",
+      "bytes": 198776491,
+      "sha256": "6213dade90916afab5b61ac9aaa24d1f77f335434972642fda18e625a9724d15",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm16_f0_base_swa.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm16_f0_base_swa.pt"
+    },
+    {
+      "name": "arm16_f0_canon_swa.pt",
+      "bytes": 198776847,
+      "sha256": "bff987d85438a81f4d385f488ef1d18950cd21ccb725e81dc396723e20bb2c59",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm16_f0_canon_swa.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm16_f0_canon_swa.pt"
+    },
+    {
+      "name": "arm18_f0_base_swa.pt",
+      "bytes": 198776491,
+      "sha256": "258a865130a9062a9710fac2e8e3b0fb35f5dd8bc527f6473c1691a1e8216ec4",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm18_f0_base_swa.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm18_f0_base_swa.pt"
+    },
+    {
+      "name": "arm18_f0_mask_swa.pt",
+      "bytes": 198776491,
+      "sha256": "5b39235b249cc50cbcdfa245494ba34f756b47aa490209c459b428d27b8deb70",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm18_f0_mask_swa.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm18_f0_mask_swa.pt"
+    },
+    {
+      "name": "arm19_f0_aug_swa.pt",
+      "bytes": 198776135,
+      "sha256": "66500852129c77a8585e934d4a81981737571a03b99aaa48a4e17401c82f5657",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm19_f0_aug_swa.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm19_f0_aug_swa.pt"
+    },
+    {
+      "name": "arm19_f0_noaug_swa.pt",
+      "bytes": 198776847,
+      "sha256": "74623a3b01c704ba84402684bb74b36244cc711fef95cac93c01ad146cbfb6fb",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm19_f0_noaug_swa.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm19_f0_noaug_swa.pt"
+    },
+    {
+      "name": "arm1_best.pt",
+      "bytes": 45056907,
+      "sha256": "c3d532da5b46262b17f94fd698a0265c3d2c75a181b8a0511f591dcd94686ba8",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm1_best.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm1_best.pt"
+    },
+    {
+      "name": "arm1_final.pt",
+      "bytes": 45057039,
+      "sha256": "ae307f7d86d87d15752db556b5b1ffab3c535746af935ac42547de2e13c6b3fc",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm1_final.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm1_final.pt"
+    },
+    {
+      "name": "arm20_f0_aug_swa.pt",
+      "bytes": 198776135,
+      "sha256": "3ee9b6520d79f6bd98db949b390feeb4e29e0722f5e70001057f43522ab3bf70",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm20_f0_aug_swa.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm20_f0_aug_swa.pt"
+    },
+    {
+      "name": "arm20_f0_noaug_swa.pt",
+      "bytes": 198776847,
+      "sha256": "ee5acf4dfd4d6979c06f6eba4c5416c2847b6563c1df7b7789870772f7c24976",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm20_f0_noaug_swa.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm20_f0_noaug_swa.pt"
+    },
+    {
+      "name": "arm2_scratch_best.pt",
+      "bytes": 85554091,
+      "sha256": "c884be44efcc26767813e79de934ca91ee43e793ec8207ba8c4152074dd38640",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm2_scratch_best.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm2_scratch_best.pt"
+    },
+    {
+      "name": "arm2_ssl_best.pt",
+      "bytes": 85553179,
+      "sha256": "f504388ee828d415c5ee1d80b9db92e546ca1e01886d533105de4fbd5dc1b5f0",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm2_ssl_best.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm2_ssl_best.pt"
+    },
+    {
+      "name": "arm6_best.pt",
+      "bytes": 96562763,
+      "sha256": "db5d2ea7fddf82c3a167591e2033779978b448d6df5854f8d6bcb03e87b34f53",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/arm6_best.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/arm6_best.pt"
+    },
+    {
+      "name": "knee_dino_checkpoint_v3_collapsed.pt",
+      "bytes": 182078005,
+      "sha256": "43a68ba5cc82988ad92e664cf3fde0b3aea138d75adbf13f91713892561da94f",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/knee_dino_checkpoint_v3_collapsed.pt",
+      "status": "negative-control checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/knee_dino_checkpoint_v3_collapsed.pt"
+    },
+    {
+      "name": "knee_dino_checkpoint_v5_easy_evalbn_collapsed.pt",
+      "bytes": 182076405,
+      "sha256": "a0f4d1e9b4bd627342314066501f796e05aa4fe2dac3f1b80efe6c61c1e05086",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/knee_dino_checkpoint_v5_easy_evalbn_collapsed.pt",
+      "status": "negative-control checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/knee_dino_checkpoint_v5_easy_evalbn_collapsed.pt"
+    },
+    {
+      "name": "knee_dino_checkpoint_v6_easy_trainbn_stable.pt",
+      "bytes": 182076405,
+      "sha256": "359598c32dc4a1326986738dd3ce275b3f877daf821a39020caa3e2919121257",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/knee_dino_checkpoint_v6_easy_trainbn_stable.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/knee_dino_checkpoint_v6_easy_trainbn_stable.pt"
+    },
+    {
+      "name": "knee_dino_checkpoint_v7_curriculum.pt",
+      "bytes": 182080693,
+      "sha256": "48807038300bb80a668152db542059fa2947be3ddefe648d5fbba0bcb9dd0483",
+      "url": "https://github.com/XERO47/rsna-knee-mri/releases/download/model-weights/knee_dino_checkpoint_v7_curriculum.pt",
+      "status": "historical checkpoint",
+      "mirror_url": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/download/v1.0.0/knee_dino_checkpoint_v7_curriculum.pt"
+    }
+  ],
+  "mirror_release": "https://github.com/manyakaistha/rsna-knee-mri-portfolio/releases/tag/v1.0.0"
+}

@@ -1,0 +1,108 @@
+{
+  "source": "kaggle/model_research/output/armc_diagnostics_gpu",
+  "checkpoint_sha256": {
+    "arm13": "27e6f5c9481a03fbdcdb8714953252414b512c7bfb2809d3086b82e9225b4024",
+    "armc": "baef983de972fd60abbec906a7cb36793df2b20f3a4dbe7ad9ac0d5c8099e067"
+  },
+  "macro_auc": {
+    "arm13_k24": 0.8909467123978407,
+    "arm13_k62": 0.8931414219220787,
+    "armc_combined": 0.8947239521245645,
+    "delta": 0.0015825302024857768,
+    "armc_minus_recorded": 6.162440388024493e-05
+  },
+  "paired_bootstrap_armc_minus_arm13": {
+    "draws": 10000,
+    "valid_draws": 10000,
+    "mean_delta": 0.0015649289913174983,
+    "ci95": [
+      -0.0004960405879523511,
+      0.003910169354248301
+    ],
+    "positive_fraction": 0.9332,
+    "min_targets_per_draw": 11
+  },
+  "per_target": {
+    "ACL": {
+      "arm13_auc": 0.9436274509803921,
+      "armc_auc": 0.9436274509803921,
+      "delta": 0.0
+    },
+    "MCL": {
+      "arm13_auc": 0.9297052154195011,
+      "armc_auc": 0.9297052154195011,
+      "delta": 0.0
+    },
+    "Medial Meniscus": {
+      "arm13_auc": 0.9314903846153846,
+      "armc_auc": 0.9314903846153846,
+      "delta": 0.0
+    },
+    "Lateral Meniscus": {
+      "arm13_auc": 0.8124223602484472,
+      "armc_auc": 0.8186335403726708,
+      "delta": 0.006211180124223614
+    },
+    "Medial OA": {
+      "arm13_auc": 0.9658914728682171,
+      "armc_auc": 0.9658914728682171,
+      "delta": 0.0
+    },
+    "Lateral OA": {
+      "arm13_auc": 0.7504835589941974,
+      "armc_auc": 0.7524177949709865,
+      "delta": 0.0019342359767891004
+    },
+    "PF OA": {
+      "arm13_auc": 0.815958815958816,
+      "armc_auc": 0.8172458172458172,
+      "delta": 0.0012870012870012104
+    },
+    "Effusion": {
+      "arm13_auc": 0.9664596273291925,
+      "armc_auc": 0.9664596273291925,
+      "delta": 0.0
+    },
+    "Synovitis": {
+      "arm13_auc": 0.7729988052568698,
+      "armc_auc": 0.7825567502986858,
+      "delta": 0.009557945041815952
+    },
+    "Baker's": {
+      "arm13_auc": 0.9873188405797102,
+      "armc_auc": 0.9873188405797102,
+      "delta": 0.0
+    },
+    "Contusion": {
+      "arm13_auc": 0.9635627530364372,
+      "armc_auc": 0.9635627530364372,
+      "delta": 0.0
+    },
+    "Fracture": {
+      "arm13_auc": 0.8777777777777778,
+      "armc_auc": 0.8777777777777778,
+      "delta": 0.0
+    }
+  },
+  "roi_only_target_auc": {
+    "MCL": 0.3287981859410431,
+    "Lateral Meniscus": 0.5118012422360249,
+    "Lateral OA": 0.7059961315280464,
+    "PF OA": 0.7773487773487773,
+    "Synovitis": 0.5603345280764636
+  },
+  "shuffled_rows_macro_auc": 0.8936540182974407,
+  "shuffled_masks_macro_auc": 0.8944215359034948,
+  "roi_permutation_control": {
+    "seed": 20260925,
+    "draws": 100,
+    "macro_auc_mean": 0.8929155533860663,
+    "macro_auc_ci95": [
+      0.8915861588226514,
+      0.894686077795164
+    ],
+    "fraction_below_real": 0.97
+  },
+  "zero_roi_image_macro_auc": 0.8931414219220787,
+  "empty_roi_exact": true
+}
