@@ -25,10 +25,10 @@ def overview():
         ax.add_patch(FancyBboxPatch((x,y),w,h,boxstyle='round,pad=0.02,rounding_size=0.12',facecolor='white',edgecolor='#D6E2E7',linewidth=1))
         ax.text(x+.22,y+h-.38,title,fontsize=12.5,color=color,weight='bold')
         ax.text(x+.22,y+h-.78,body,fontsize=10.3,color=MUTED,linespacing=1.6,va='top')
-    card(.5,2.15,2.7,2.2,'01  ·  SUPERVISION','4,407 MRI studies\n58 fully labeled studies\n4,349 report-labeled studies')
+    card(.5,2.15,2.7,2.2,'01  ·  SUPERVISION','4,407 MRI studies\n58 fully labeled studies\n4,349 weak-label studies')
     card(3.65,2.15,2.85,2.2,'02  ·  GEOMETRY','Physical slice ordering\nPlane / contrast windows\nMasks + cache parity')
     card(6.95,3.29,3.0,1.06,'03  ·  GLOBAL','Encoder + finding attention',TEAL)
-    card(6.95,1.95,3.0,1.06,'04  ·  LOCAL','Landmarks + anatomical crops',TEAL)
+    card(6.95,1.95,3.0,1.06,'04  ·  LOCAL','Landmark-driven ROI crops',TEAL)
     card(10.4,2.15,3.1,2.2,'05  ·  EVALUATION','12 independent findings\nOOF + paired uncertainty\nPublic / private results')
     for a,b in [((3.22,3.25),(3.62,3.25)),((6.52,3.45),(6.92,3.78)),((6.52,2.85),(6.92,2.48)),((9.97,3.78),(10.37,3.45)),((9.97,2.48),(10.37,2.85))]:
         ax.add_patch(FancyArrowPatch(a,b,arrowstyle='-|>',mutation_scale=14,color='#92ABB8',linewidth=1.5))

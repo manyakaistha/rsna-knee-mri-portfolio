@@ -1,6 +1,6 @@
 # Publication validation
 
-Validated on **6 November 2026** in a fresh Python 3.11 CPU environment. The exact installed package versions are recorded in [validation-environment.txt](validation-environment.txt). The workflow is also defined in [GitHub Actions](../.github/workflows/ci.yml).
+Validated on **6 November 2026** in a fresh Python 3.11 CPU environment. The exact installed package versions are recorded in [validation-environment.txt](validation-environment.txt). The workflow is also defined in [GitHub Actions](../.github/workflows/ci.yml). The first [Ubuntu CI run](https://github.com/manyakaistha/rsna-knee-mri-portfolio/actions/runs/42181024591) passed the same check runner.
 
 ## Executed checks
 
